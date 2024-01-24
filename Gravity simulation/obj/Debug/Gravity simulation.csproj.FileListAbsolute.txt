@@ -1,0 +1,22 @@
+C:\Users\user\Desktop\свалка проектов\мои проекты си шарп\виндовс формс\Гравитационная симуляция\Gravity simulation\bin\Debug\Gravity simulation.exe.config
+C:\Users\user\Desktop\свалка проектов\мои проекты си шарп\виндовс формс\Гравитационная симуляция\Gravity simulation\bin\Debug\Gravity simulation.exe
+C:\Users\user\Desktop\свалка проектов\мои проекты си шарп\виндовс формс\Гравитационная симуляция\Gravity simulation\bin\Debug\Gravity simulation.pdb
+C:\Users\user\Desktop\свалка проектов\мои проекты си шарп\виндовс формс\Гравитационная симуляция\Gravity simulation\obj\Debug\Gravity simulation.csprojResolveAssemblyReference.cache
+C:\Users\user\Desktop\свалка проектов\мои проекты си шарп\виндовс формс\Гравитационная симуляция\Gravity simulation\obj\Debug\Gravity_simulation.MainForm.resources
+C:\Users\user\Desktop\свалка проектов\мои проекты си шарп\виндовс формс\Гравитационная симуляция\Gravity simulation\obj\Debug\Gravity simulation.csproj.GenerateResource.Cache
+C:\Users\user\Desktop\свалка проектов\мои проекты си шарп\виндовс формс\Гравитационная симуляция\Gravity simulation\obj\Debug\Gravity simulation.exe
+C:\Users\user\Desktop\свалка проектов\мои проекты си шарп\виндовс формс\Гравитационная симуляция\Gravity simulation\obj\Debug\Gravity simulation.pdb
+C:\Users\user\Desktop\свалка проектов\мои проекты си шарп\виндовс формс\Гравитационная симуляция\Gravity simulation\obj\Debug\Gravity_simulation.gameresult.resources
+C:\Users\user\Desktop\свалка проектов\мои проекты си шарп\виндовс формс\Гравитационная симуляция\Gravity simulation\obj\Debug\Gravity_simulation.gameresult2.resources
+C:\Users\user\Desktop\свалка проектов\мои проекты си шарп\виндовс формс\Гравитационная симуляция\Gravity simulation\obj\Debug\Gravity_simulation.gameresult1.resources
+C:\Users\karni\OneDrive\Рабочий стол\свалка проектов\мои проекты си шарп\виндовс формс\Гравитационная симуляция\Gravity simulation\bin\Debug\Gravity simulation.exe.config
+C:\Users\karni\OneDrive\Рабочий стол\свалка проектов\мои проекты си шарп\виндовс формс\Гравитационная симуляция\Gravity simulation\bin\Debug\Gravity simulation.exe
+C:\Users\karni\OneDrive\Рабочий стол\свалка проектов\мои проекты си шарп\виндовс формс\Гравитационная симуляция\Gravity simulation\bin\Debug\Gravity simulation.pdb
+C:\Users\karni\OneDrive\Рабочий стол\свалка проектов\мои проекты си шарп\виндовс формс\Гравитационная симуляция\Gravity simulation\obj\Debug\Gravity simulation.csprojResolveAssemblyReference.cache
+C:\Users\karni\OneDrive\Рабочий стол\свалка проектов\мои проекты си шарп\виндовс формс\Гравитационная симуляция\Gravity simulation\obj\Debug\Gravity_simulation.gameresult.resources
+C:\Users\karni\OneDrive\Рабочий стол\свалка проектов\мои проекты си шарп\виндовс формс\Гравитационная симуляция\Gravity simulation\obj\Debug\Gravity_simulation.gameresult1.resources
+C:\Users\karni\OneDrive\Рабочий стол\свалка проектов\мои проекты си шарп\виндовс формс\Гравитационная симуляция\Gravity simulation\obj\Debug\Gravity_simulation.gameresult2.resources
+C:\Users\karni\OneDrive\Рабочий стол\свалка проектов\мои проекты си шарп\виндовс формс\Гравитационная симуляция\Gravity simulation\obj\Debug\Gravity_simulation.MainForm.resources
+C:\Users\karni\OneDrive\Рабочий стол\свалка проектов\мои проекты си шарп\виндовс формс\Гравитационная симуляция\Gravity simulation\obj\Debug\Gravity simulation.csproj.GenerateResource.Cache
+C:\Users\karni\OneDrive\Рабочий стол\свалка проектов\мои проекты си шарп\виндовс формс\Гравитационная симуляция\Gravity simulation\obj\Debug\Gravity simulation.exe
+C:\Users\karni\OneDrive\Рабочий стол\свалка проектов\мои проекты си шарп\виндовс формс\Гравитационная симуляция\Gravity simulation\obj\Debug\Gravity simulation.pdb

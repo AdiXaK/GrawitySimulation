@@ -1,0 +1,18 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 11.00
+# Visual Studio 2010
+# SharpDevelop 4.4
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Gravity simulation", "Gravity simulation.csproj", "{4B7119F4-85CC-4FD1-B4F1-2E3090384763}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{4B7119F4-85CC-4FD1-B4F1-2E3090384763}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{4B7119F4-85CC-4FD1-B4F1-2E3090384763}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{4B7119F4-85CC-4FD1-B4F1-2E3090384763}.Release|Any CPU.Build.0 = Release|Any CPU
+		{4B7119F4-85CC-4FD1-B4F1-2E3090384763}.Release|Any CPU.ActiveCfg = Release|Any CPU
+	EndGlobalSection
+EndGlobal
